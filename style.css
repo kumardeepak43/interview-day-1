@@ -1,0 +1,34 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+    }
+    .head{
+        background-color: yellowgreen;
+        text-align: center;
+        color: gray;
+        text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.735);
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-family: cursive;
+    }
+    
+    .container{
+        background-image: linear-gradient(rgba(112, 67, 71, 0.518) ,rgba(52, 117, 32, 0.614),rgba(0, 255, 255, 0.605),rgb(13, 181, 13))
+        
+    }
+    h2{
+        background-color: brown;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        color: peru;
+        text-shadow: 2px 2px 8px black;
+    
+    }
+    pre{
+        font-size: larger;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+    }
